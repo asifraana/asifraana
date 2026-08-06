@@ -1,52 +1,59 @@
-Hi, I'm Asif Raana
+# Asif N
 
-Flutter Developer | Android & iOS Applications
-3 Years of Experience in Mobile App Development
-Tamil Nadu, India
+**Flutter Developer | Android & iOS Applications**
 
-I specialize in building scalable, high-performance Flutter applications with clean architecture, smooth UI, and reliable backend integrations. I enjoy turning ideas into real-world mobile products.
+**3+ Years of Experience in Mobile App Development**
 
-Tech Stack & Skills
-  Mobile Development
+📍 Tamil Nadu, India
 
-  Flutter (Android & iOS)
+I am a Flutter Developer with 3+ years of experience building scalable, high-performance Android and iOS applications. I specialize in developing production-ready mobile apps using **Flutter** and **Dart**, following **Clean Architecture** principles and writing maintainable, efficient code.
 
-  Dart
+I have developed and maintained **10+ production applications**, published **9+ apps** on the Google Play Store and Apple App Store, and contributed to products serving **50,000+ users**. My experience includes performance optimization, secure backend integrations, payment systems, in-app subscriptions, push notifications, and scalable mobile architectures.
 
-  GetX (State Management)
+## Tech Stack & Skills
 
-  REST API Integration
+### Mobile Development
 
-WebView & Deep Linking
+* Flutter (Android & iOS)
+* Dart
+* Clean Architecture
+* GetX (State Management)
+* REST API Integration
+* Deep Linking
+* WebView
+* Performance Optimization
 
-Backend & Services
+### Backend & Services
 
-  Firebase (Auth, Firestore, Push Notifications)
+* Firebase Authentication
+* Cloud Firestore
+* Firebase Cloud Messaging (Push Notifications)
+* In-App Purchases & Subscriptions
+* Google Play Real-Time Developer Notifications (RTDN)
+* Apple App Store Server Notifications
+* Payment Gateway Integration
 
-  In-App Purchases & Subscriptions
+### Databases & Local Storage
 
-  Google Play Real-Time Developer Notifications (RTDN)
+* SQLite
+* Hive
+* SharedPreferences
+* Secure Local Storage
 
-  Apple App Store Server Notifications
+### Tools & DevOps
 
-  Payment Gateway Integration
+* Git & GitHub
+* CI/CD Basics
+* Postman
+* Google Play Console
+* Apple App Store Connect
 
-Databases & Storage
+## Highlights
 
-  SQLite
-
-  SharedPreferences
-
-  Secure Local Storage
-
-Tools & DevOps
-
-  Git & GitHub
-
-  CI/CD Basics
-
-  Postman
-
-  Google Play Console
-
-  Apple App Store Connect
+* 🚀 3+ years of Flutter development experience
+* 📱 Published 9+ applications on Google Play Store & Apple App Store
+* 👥 Applications serving 50,000+ users
+* ⚡ Optimized app performance through efficient widget rebuilding and API optimization
+* 💳 Integrated multiple payment gateways and In-App Purchase systems
+* 🔔 Implemented Firebase Push Notifications, Deep Linking, and secure backend integrations
+* 🏗️ Built scalable applications using Clean Architecture and GetX
